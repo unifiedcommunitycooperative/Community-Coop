@@ -39,3 +39,5 @@ No external funders: The problem with external funders is that they rarely have 
 No external consumer/funder: External consumers are generally disengaged from the process of production so are often not getting their needs met. In addition, when consumers are not paying for their goods and services they are not only  completely at the mercy of the producers they do not benefit from the pride of production.
 
 No external producers: While capitalism works as a driving force, the force that drives the production of a good or service is profit and not necessarily the product itself or the needs of the consumer.
+
+[back](https://unifiedcommunitycooperative.github.io/Community-Coop/)
