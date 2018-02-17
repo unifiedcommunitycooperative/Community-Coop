@@ -15,6 +15,6 @@ The Somerville Fermentation Coop, founded in 2017, produces seasonal quarts of f
 [Somerville Bike Kitchen](http://www.somervillebikekitchen.org/)
 The Somerville Bike Kitchen (SBK), founded in 2015,  is a bicycle repair cooperative where members of the community can repair their own bikes, learn about bike repair and attend bike events. 
 
-[How do cooperatives work?](https://github.com/unifiedcommunitycooperative/Community-Coop/blob/master/newpage.md)
+[How do cooperatives work?](https://github.com/unifiedcommunitycooperative/Community-Coop/newpage.md)
 
 Have questions? Reach out to **somerunifiedcoop@gmail.com** 
