@@ -1,6 +1,6 @@
 ## How do cooperatives work? 
 
-### Produces a good or service: The cooperative should provide on a consistent basis, a good or service. 
+### The cooperative should provide on a consistent basis, a good or service. 
 
 For example, the Somerville Yogurt Making Cooperative 
 1. Is primarily self-funded: The cooperative should be funded primarily by the people who use the good or service. In this way, there is no distinction between consumers and producers leading to shared objectives. 
