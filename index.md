@@ -6,7 +6,7 @@ The following are a list of **community organized food-production cooperatives b
 [Somerville Yogurt Making Cooperative](http://www.somervilleyogurtmakingcoop.wordpress.com) 
 The Somerville Yogurt Making Cooperative (SYMC) was founded in 2011 and produces approximately 20 quarts of yogurt per week for its members. Members are expected to make yogurt for the the group approximately once every 3 months. 
 
-[Somerville Granola Making Cooperative](http://www.somervillegranolamakingcoop.github.io/)
+[Somerville Granola Making Cooperative](http://somervillegranolamakingcoop.github.io/)
 The Somerville Granola Making Cooperative (SGMC) produces granola once every four weeks using all locally sourced ingredients. Members are expected to make granola for the the group once every 12 weeks. 
 
 Somerville Fermentation Coop
