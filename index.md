@@ -9,7 +9,7 @@ The Somerville Yogurt Making Cooperative (SYMC) was founded in 2011 and produces
 [Somerville Granola Making Cooperative](http://somervillegranolamakingcoop.github.io/)
 The Somerville Granola Making Cooperative (SGMC) produces granola once every four weeks using all locally sourced ingredients. Members are expected to make granola for the the group once every 12 weeks. 
 
-Somerville Fermentation Coop
+[Somerville Fermentation Coop](https://somervillefermentationcoop.wordpress.com/)
 The Somerville Fermentation Coop, founded in 2017, produces seasonal quarts of fermented vegetables for its members including, carrots, green beans, cucumbers, kimchi, sauerkraut asparagus and salsa.
 
 [Somerville Bike Kitchen](http://www.somervillebikekitchen.org/)
