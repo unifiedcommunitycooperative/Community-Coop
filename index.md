@@ -1,6 +1,6 @@
 ## Welcome to the Somerville Unified Community Cooperatives!
 
-The following are a list of **community organized food-production cooperatives based in the Somerville area**. Each of the cooperatives produces a food product that is paid for and produced by its members and follows an economic model that combines the time efficiency of organized labor with the cost efficiency of direct service production.
+The following are a list of **community organized food-production (and bike) cooperatives based in the Somerville area**. Each of the cooperatives produces a food product that is paid for and produced by its members and follows an economic model that combines the time efficiency of organized labor with the cost efficiency of direct service production.
 
 
 [Somerville Yogurt Making Cooperative](http://www.somervilleyogurtmakingcoop.wordpress.com) 
